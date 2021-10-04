@@ -1,4 +1,8 @@
+<<<<<<< HEAD
  const movies =[
+=======
+export default [
+>>>>>>> ce6d8ddf4e268b69ff069316858a70db5880ca4e
     {
       id: 1,
       title: "The Shawshank Redemption",
@@ -92,4 +96,8 @@
       ]
     }
   ]
+<<<<<<< HEAD
   export default movies;
+=======
+  
+>>>>>>> ce6d8ddf4e268b69ff069316858a70db5880ca4e
